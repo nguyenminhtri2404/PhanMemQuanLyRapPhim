@@ -1,6 +1,6 @@
-##gôn ngữ: C#
-#Công nghệ sử dụng: .NET Winform, SQL Server
-#Giao diện: Bunifiu UI, Guna
+##Ngôn ngữ: C#
+##Công nghệ sử dụng: .NET Winform, SQL Server
+##Giao diện: Bunifiu UI, Guna
 #Chức năng chính:
 - Đăng nhập, đổi mật khẩu
 - CRUD quản lý phim, loại phim, lịch chiếu, khuyến mãi, dịch vụ ăn uống, phòng chiếu, khách hàng, nhân viên
